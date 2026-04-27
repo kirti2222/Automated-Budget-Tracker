@@ -10,7 +10,7 @@ Visual Engineering: Developed dynamic charts, including a "Percentage of Income 
 Quality Assurance: Performed rigorous testing to ensure that updating a single entry would accurately reflect across the entire system, mirroring a real-world automated data pipeline.
 
 ![Budget Dashboard](https://github.com/kirti2222/Automated-Budget-Tracker/blob/main/Screenshot%202026-03-23%20020932.png)
-
+[https://github.com/kirti2222/Automated-Budget-Tracker/blob/main/Automate%20Budget%20Tracker.mp4]
 
 ## Final Conclusion
 This project demonstrates the power of automation in personal finance. By applying a "detective lens" a core part of my analytical branding, I successfully built a tool that uncovers financial patterns and simplifies tracking. This project serves as a foundation for more complex automation solutions, proving that a data-driven approach can turn a simple spreadsheet into a professional-grade digital product.
