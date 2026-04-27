@@ -16,4 +16,4 @@ Quality Assurance: Performed rigorous testing to ensure that updating a single e
 "C:\Users\khatt\OneDrive\Desktop\Automate Pie Chart.mp4"
 
 ## Final Conclusion
-This project demonstrates the power of automation in personal finance. By applying a "detective lens"—a core part of my analytical branding. I successfully built a tool that uncovers financial patterns and simplifies tracking. This project serves as a foundation for more complex automation solutions, proving that a data-driven approach can turn a simple spreadsheet into a professional-grade digital product.
+This project demonstrates the power of automation in personal finance. By applying a "detective lens" a core part of my analytical branding, I successfully built a tool that uncovers financial patterns and simplifies tracking. This project serves as a foundation for more complex automation solutions, proving that a data-driven approach can turn a simple spreadsheet into a professional-grade digital product.
