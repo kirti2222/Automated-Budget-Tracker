@@ -9,7 +9,8 @@ Automation Logic: Implemented advanced formulas to create a real-time link betwe
 Visual Engineering: Developed dynamic charts, including a "Percentage of Income Spent" donut chart and income vs. expense bar graphs, to translate raw numbers into actionable insights.
 Quality Assurance: Performed rigorous testing to ensure that updating a single entry would accurately reflect across the entire system, mirroring a real-world automated data pipeline.
 
-![Alt Text]("Screenshot 2026-03-23 020932.png")
+![Alt Text]("Automated-Budget-Tracker
+/Screenshot 2026-03-23 020932.png)
 
 "C:\Users\khatt\OneDrive\Desktop\Automated Budget Tracker.mp4"
 "C:\Users\khatt\OneDrive\Desktop\Automate Budget Tracker.mp4"
