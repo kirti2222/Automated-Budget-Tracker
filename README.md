@@ -2,11 +2,11 @@
 ## Project Objective
 The primary goal of this project was to engineer a high-efficiency financial management tool that eliminates the friction of manual data entry and complex calculations. Designed for users seeking a streamlined way to track income and expenses, the tool aims to provide immediate visual clarity on savings goals and debt management through automated logic.
 ## The Tech Stack
-## Tool: Microsoft Excel (Advanced)
+### Tool: Microsoft Excel (Advanced)
 
-## Logic: Dynamic Data Referencing, Data Validation, Automated Totals.
+### Logic: Dynamic Data Referencing, Data Validation, Automated Totals.
 
-## Features: Categorical Tagging, Real-time Dashboard Updates, Conditional Formatting.
+### Features: Categorical Tagging, Real-time Dashboard Updates, Conditional Formatting.
 
 ## Project Process
 To achieve a "builder" mindset and ensure the tool functioned as a robust data product, I followed a structured development workflow.
@@ -18,11 +18,11 @@ Quality Assurance: Performed rigorous testing to ensure that updating a single e
 ![Budget Dashboard](https://github.com/kirti2222/Automated-Budget-Tracker/blob/main/Screenshot%202026-03-23%20020932.png)
 ## Key Metrics Visualized:
 
-## Efficiency: Automated tracking of ₹1,30,000 in monthly income.
+### Efficiency: Automated tracking of ₹1,30,000 in monthly income.
 
-## Financial Health: Real-time calculation of ₹70,500 cash balance.
+### Financial Health: Real-time calculation of ₹70,500 cash balance.
 
-## Sustainability: Visual confirmation of a 32% spend rate, ensuring savings goals are met.
+### Sustainability: Visual confirmation of a 32% spend rate, ensuring savings goals are met.
 
 ## Final Conclusion
 This project demonstrates the power of automation in personal finance. By applying a "detective lens" a core part of my analytical branding, I successfully built a tool that uncovers financial patterns and simplifies tracking. This project serves as a foundation for more complex automation solutions, proving that a data-driven approach can turn a simple spreadsheet into a professional-grade digital product.
